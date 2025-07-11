@@ -1,0 +1,22 @@
+python3.10 -m venv ./env
+.\env\Scripts\actívate
+git clone https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8.git
+
+pip install -r requirements.txt
+
+git clone https://github.com/abewley/sort
+cd sort
+
+pip install -r requirements.txt
+
+pip install --upgrade ultralytics
+
+python post.py
+https://github.com/egalles79/plateanalyzer.git
+npm install
+npm run dev
+
+
+
+
+
